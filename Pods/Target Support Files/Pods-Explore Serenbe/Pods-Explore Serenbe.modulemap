@@ -1,0 +1,6 @@
+framework module Pods_Explore_Serenbe {
+  umbrella header "Pods-Explore Serenbe-umbrella.h"
+
+  export *
+  module * { export * }
+}

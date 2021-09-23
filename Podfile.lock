@@ -1,0 +1,26 @@
+PODS:
+  - JXWebViewController (1.3.0)
+  - NVActivityIndicatorView (5.1.1):
+    - NVActivityIndicatorView/Base (= 5.1.1)
+  - NVActivityIndicatorView/Base (5.1.1)
+  - OneSignal (3.8.0)
+
+DEPENDENCIES:
+  - JXWebViewController
+  - NVActivityIndicatorView
+  - OneSignal (< 4.0, >= 3.0.0)
+
+SPEC REPOS:
+  trunk:
+    - JXWebViewController
+    - NVActivityIndicatorView
+    - OneSignal
+
+SPEC CHECKSUMS:
+  JXWebViewController: 03b2eb44176270b79ff115eda1a64496963ab4e2
+  NVActivityIndicatorView: 1f6c5687f1171810aa27a3296814dc2d7dec3667
+  OneSignal: bb3c8da4467f2b48a89398da5ff107ba70cff06e
+
+PODFILE CHECKSUM: fde68011c9d7fe129949c103fc6b7eaa53e639d8
+
+COCOAPODS: 1.10.1
