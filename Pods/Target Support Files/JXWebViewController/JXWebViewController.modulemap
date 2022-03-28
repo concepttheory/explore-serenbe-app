@@ -1,6 +1,0 @@
-framework module JXWebViewController {
-  umbrella header "JXWebViewController-umbrella.h"
-
-  export *
-  module * { export * }
-}
